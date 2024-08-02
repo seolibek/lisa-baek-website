@@ -1,8 +1,9 @@
-# React + Vite
+This project was made with the following video walkthrough from Harris Johnsen:
+https://www.youtube.com/watch?v=ZpIel9cv4Jk
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This was a fun little project that I got to do get more familiar with HTML, CSS, and React! Lots more update to be done (and more personalization to be done), but an okay starting website for now...
 
-Currently, two official plugins are available:
+Icons used from icons8, free for personal use.
+Project photos free for use under Creative Commons (or drawn up on my iPad - will be prettier later!)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Todo: Skills and Contact
